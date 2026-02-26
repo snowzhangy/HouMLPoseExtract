@@ -1,0 +1,15 @@
+# Ignore all files and folders starting with a dot
+**/.*
+
+# Ignore all Markdown files
+*.md
+
+# Ignore common binary and compiled files
+*.exe
+*.bin
+*.out
+*.o
+*.obj
+*.so
+*.dll
+*.app
